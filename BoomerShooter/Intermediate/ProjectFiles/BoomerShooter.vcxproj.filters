@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BoomerShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FD3A0804-7E2C-4911-B1C2-DAC6FFB47C83}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BoomerShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BoomerShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Crypto Backup 2023-11-23 201246.ini" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{33F04BB8-BC39-483A-A824-416AB099D0C1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultCrypto.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BoomerShooter">
+      <UniqueIdentifier>{7EE81D11-A58C-4186-8AC8-4D602E56BCA3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BoomerShooter\BoomerShooter.Build.cs">
+      <Filter>Source\BoomerShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BoomerShooter\BoomerShooter.cpp">
+      <Filter>Source\BoomerShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoomerShooter\BoomerShooter.h">
+      <Filter>Source\BoomerShooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\BoomerShooter\Private">
+      <UniqueIdentifier>{1837FCDA-ECD5-45B7-9BA8-FBC12C074ED6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BoomerShooter\Private\EnvQueryGenerator_PerceivedActor.cpp">
+      <Filter>Source\BoomerShooter\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\BoomerShooter\Public">
+      <UniqueIdentifier>{BBCA0FD6-D052-42BE-B314-91FA52FA9DEF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\BoomerShooter\Public\EnvQueryGenerator_PerceivedActor.h">
+      <Filter>Source\BoomerShooter\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

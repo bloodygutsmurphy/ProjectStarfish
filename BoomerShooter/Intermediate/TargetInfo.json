@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BoomerShooter",
+			"Path": "C:\\Users\\TheAm\\Documents\\_Archive\\Unreal Projects\\BoomerShooterTemplate\\Source\\BoomerShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BoomerShooterEditor",
+			"Path": "C:\\Users\\TheAm\\Documents\\_Archive\\Unreal Projects\\BoomerShooterTemplate\\Source\\BoomerShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

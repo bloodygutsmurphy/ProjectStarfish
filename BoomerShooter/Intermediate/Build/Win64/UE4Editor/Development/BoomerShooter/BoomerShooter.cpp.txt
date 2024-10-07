@@ -1,0 +1,2 @@
+C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\Definitions.BoomerShooter.h
+C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Source\BoomerShooter\BoomerShooter.h
