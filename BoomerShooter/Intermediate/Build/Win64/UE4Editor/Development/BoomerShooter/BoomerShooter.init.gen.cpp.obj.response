@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Source\BoomerShooter\Private"
+/I C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Source\BoomerShooter\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AIModule
 /I Runtime
 /I Runtime\NavigationSystem\Public
@@ -232,9 +232,13 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Inc\BoomerShooter"
-/I "C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Source"
-/I "C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Source\BoomerShooter\Public"
+/I C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Inc\BoomerShooter
+/I C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Source
+/I C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Source\BoomerShooter\Public
+/I ..\Plugins\Marketplace\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlockoutToolsPlugin
+/I ..\Plugins\Marketplace\BlockoutToolsPlugin\Source
+/I ..\Plugins\Marketplace\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public
+/I ..\Plugins\Marketplace\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -264,12 +268,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\BoomerShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\BoomerShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\BoomerShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Inc\BoomerShooter\BoomerShooter.init.gen.cpp"
-/FI"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\Definitions.BoomerShooter.h"
-/Fo"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\BoomerShooter.init.gen.cpp.obj"
+/FI"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\BoomerShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\BoomerShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\BoomerShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Inc\BoomerShooter\BoomerShooter.init.gen.cpp"
+/FI"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\Definitions.BoomerShooter.h"
+/Fo"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\BoomerShooter.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BoomerShooter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FD3A0804-7E2C-4911-B1C2-DAC6FFB47C83}</UniqueIdentifier>
+      <UniqueIdentifier>{0FDA6F29-0CA6-4A38-9E53-334C8C714E9F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BoomerShooter.Target.cs">
       <Filter>Source</Filter>
@@ -11,9 +11,10 @@
     <None Include="..\..\Source\BoomerShooterEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\BoomerShooter.sln.DotSettings.user" />
     <None Include="..\..\Crypto Backup 2023-11-23 201246.ini" />
     <Filter Include="Config">
-      <UniqueIdentifier>{33F04BB8-BC39-483A-A824-416AB099D0C1}</UniqueIdentifier>
+      <UniqueIdentifier>{375CE70D-58D8-412E-B487-97643184DCCF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultCrypto.ini">
       <Filter>Config</Filter>
@@ -37,7 +38,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BoomerShooter">
-      <UniqueIdentifier>{7EE81D11-A58C-4186-8AC8-4D602E56BCA3}</UniqueIdentifier>
+      <UniqueIdentifier>{F4BF54CE-49F5-48C4-9714-D2E38E58CF37}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BoomerShooter\BoomerShooter.Build.cs">
       <Filter>Source\BoomerShooter</Filter>
@@ -49,15 +50,15 @@
       <Filter>Source\BoomerShooter</Filter>
     </ClInclude>
     <Filter Include="Source\BoomerShooter\Private">
-      <UniqueIdentifier>{1837FCDA-ECD5-45B7-9BA8-FBC12C074ED6}</UniqueIdentifier>
+      <UniqueIdentifier>{8E67994A-665A-49B1-A68C-28C8323D2EC3}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\BoomerShooter\Private\EnvQueryGenerator_PerceivedActor.cpp">
+    <ClCompile Include="..\..\Source\BoomerShooter\Private\EnvQueryGenerator_PerceivedActors.cpp">
       <Filter>Source\BoomerShooter\Private</Filter>
     </ClCompile>
     <Filter Include="Source\BoomerShooter\Public">
-      <UniqueIdentifier>{BBCA0FD6-D052-42BE-B314-91FA52FA9DEF}</UniqueIdentifier>
+      <UniqueIdentifier>{BCC456CE-77B0-4878-BE49-F6D5B184E970}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\BoomerShooter\Public\EnvQueryGenerator_PerceivedActor.h">
+    <ClInclude Include="..\..\Source\BoomerShooter\Public\EnvQueryGenerator_PerceivedActors.h">
       <Filter>Source\BoomerShooter\Public</Filter>
     </ClInclude>
   </ItemGroup>

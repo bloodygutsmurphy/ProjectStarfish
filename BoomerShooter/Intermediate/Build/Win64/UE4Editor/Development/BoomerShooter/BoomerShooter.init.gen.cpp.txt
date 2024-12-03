@@ -1,3 +1,3 @@
-C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\Definitions.BoomerShooter.h
+C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\Definitions.BoomerShooter.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

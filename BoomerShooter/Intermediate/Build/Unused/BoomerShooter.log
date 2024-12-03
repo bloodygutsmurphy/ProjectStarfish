@@ -1,12 +1,23 @@
 ﻿  Cleaning BoomerShooterEditor and UnrealHeaderTool binaries...
-UnrealBuildTool : error : Unable to delete C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate\Binaries\Win64\UE4Editor-BoomerShooter.dll (Unable to delete 'C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate\Binaries\Win64\UE4Editor-BoomerShooter.dll': Access to the path 'C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate\Binaries\Win64\UE4Editor-BoomerShooter.dll' is denied.)
   Creating makefile for BoomerShooterEditor (no existing makefile)
   Parsing headers for BoomerShooterEditor
-    Running UnrealHeaderTool "C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate\BoomerShooter.uproject" "C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate\Intermediate\Build\Win64\BoomerShooterEditor\Development\BoomerShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\TheAm\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+    Running UnrealHeaderTool "C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\BoomerShooter.uproject" "C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\BoomerShooterEditor\Development\BoomerShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\TheAm\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
   LogInit: Display: Loading text-based GConfig....
-  Reflection code generated for BoomerShooterEditor in 157.1886986 seconds
+  Reflection code generated for BoomerShooterEditor in 4.253084 seconds
   Building BoomerShooterEditor...
   Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 9 actions with 8 processes...
     [1/9] Default.rc2
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(50,5): warning MSB5021: Terminating the task executable "cmd" and its child processes because the build was canceled.
+    [2/9] SharedPCH.Engine.ShadowErrors.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [3/9] BoomerShooter.init.gen.cpp
+    [4/9] EnvQueryGenerator_PerceivedActors.gen.cpp
+    [5/9] BoomerShooter.cpp
+    [6/9] EnvQueryGenerator_PerceivedActors.cpp
+    [7/9] UE4Editor-BoomerShooter.lib
+       Creating library C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\UE4Editor-BoomerShooter.lib and object C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\UE4Editor-BoomerShooter.exp
+    [8/9] UE4Editor-BoomerShooter.dll
+       Creating library C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\UE4Editor-BoomerShooter.suppressed.lib and object C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\UE4Editor-BoomerShooter.suppressed.exp
+    [9/9] BoomerShooterEditor.target
+  Total time in Parallel executor: 65.33 seconds
+  Total execution time: 73.37 seconds

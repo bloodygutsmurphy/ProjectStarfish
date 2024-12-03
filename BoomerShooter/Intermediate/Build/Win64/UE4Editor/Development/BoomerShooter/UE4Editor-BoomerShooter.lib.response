@@ -6,10 +6,10 @@
 /NAME:"UE4Editor-BoomerShooter.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\BoomerShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\EnvQueryGenerator_PerceivedActors.cpp.obj"
-"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\BoomerShooter.cpp.obj"
-"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\BoomerShooter.init.gen.cpp.obj"
-"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\EnvQueryGenerator_PerceivedActors.gen.cpp.obj"
-"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\Default.rc2.res"
-/OUT:"C:\Users\TheAm\Documents\_Archive\Unreal Projects\BoomerShooterTemplate - Broken\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\UE4Editor-BoomerShooter.lib"
+"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\BoomerShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\EnvQueryGenerator_PerceivedActors.cpp.obj"
+"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\BoomerShooter.cpp.obj"
+"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\BoomerShooter.init.gen.cpp.obj"
+"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\EnvQueryGenerator_PerceivedActors.gen.cpp.obj"
+"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\Default.rc2.res"
+/OUT:"C:\Users\TheAm\Downloads\ProjectStarfish-main\BoomerShooter\Intermediate\Build\Win64\UE4Editor\Development\BoomerShooter\UE4Editor-BoomerShooter.lib"
